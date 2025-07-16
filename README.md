@@ -6,15 +6,17 @@ A professional HR analytics dashboard built in **Power BI** to monitor and analy
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Why This Dashboard](#why-this-dashboard)
-- [Key Features](#key-features)
-- [How It Helps](#how-it-helps)
-- [Screenshots](#screenshots)
-- [Tools Used](#tools-used)
-- [Files Included](#files-included)
-- [Future Enhancements](#future-enhancements)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Why This Dashboard](#-why-this-dashboard)
+- [Key Features](#-key-features)
+- [How It Helps](#-how-it-helps)
+- [Screenshots](#-screenshots)
+- [Tools Used](#-tools-used)
+- [Files Included](#-files-included)
+- [Future Enhancements](#-future-enhancements)
+- [How to Use](#-how-to-use)
+- [Contact](#-contact)
 
 ---
 
